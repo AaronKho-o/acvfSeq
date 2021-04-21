@@ -1,0 +1,14 @@
+Package: acvfSeq
+Type: Package
+Title: Determine if a symmetric sequence is positive semidefinite
+Version: 0.1.0
+Author: Aaron Khoo
+Maintainer: The package maintainer <aaron2khoo@gmail.com>
+Description: Since all symmetric positive semidefinite sequences can serve as the autocovariance function of a weakly stationary process, the tools in time series analysis are used to determine if a symmetric sequence is positive semidefinite 
+License: MIT + file LICENSE.txt
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr
+VignetteBuilder: knitr
