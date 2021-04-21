@@ -5,14 +5,20 @@ acvfSeq has methods which approach the problem in the time and frequency domain.
 
 
 **Usage** 
+
 library(devtools)
+
 install_github("AaronKho-o/acvfSeq")
 
 
 **Functions**
+
 tmatrix_psd: Prove a sequence is not positive semidefinite.
+
 spec_density: Obtain values of spectral density for a range of frequencies.
+
 spec_density_plot: Plot values of spectral density for a range of frequencies.
+
 convert_complex_exp: Returns arguments of complex exponential form for complex data types.
 
 
