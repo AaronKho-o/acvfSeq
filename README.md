@@ -11,6 +11,8 @@ library(devtools)
 
 install_github("AaronKho-o/acvfSeq")
 
+library(acvfSeq)
+
 
 **Functions**
 
